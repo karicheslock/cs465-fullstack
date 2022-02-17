@@ -2,7 +2,7 @@
 # Architecture
 ## Compare and contrast the types of frontend development you used in your full stack project, including Express HTML, JavaScript, and the single-page application (SPA).
 This project began with several static HTML pages that were loaded into Express with JavaScript being used to handle the models, routes, and controllers.  The single-page application was later added to handle adminstrative CRUD functionality and prevent multiple re-loads of the page for the user.
-# Why did the backedn use a NoSQL MongoDB database?
+# Why did the backend use a NoSQL MongoDB database?
 A NoSQL database uses JSON objects to structure data, making the CRUD operations using JavaScript more straight-forward.  Also, the data structure in a NoSQL database is more flexible and requires less code to handle than a SQL database.  MongoDB is a widely used free resource which was helpful for this project.
 # Functionality
 ## How is JSON different from JavaScript and how does JSON tie together the frontend and backend development pieces?
